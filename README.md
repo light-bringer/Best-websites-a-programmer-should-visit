@@ -82,6 +82,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
+- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
@@ -95,6 +96,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
 - [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
@@ -107,8 +109,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 
 ## CryptoCurrency
+- [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
+- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
 - [What Cryptocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
+- [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
+- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
@@ -116,6 +122,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
+- [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
+- [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 
 
 ## General Coding advice
@@ -132,6 +140,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
 
 
 ## Coding Style
@@ -165,7 +174,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
-- [IDE Onlang](https://ide.onelang.io/) : Write in one language and get the same result in other languages.
+- [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
@@ -250,6 +259,7 @@ When learning CS, there are some useful sites you must know to get always inform
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
 - [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
+- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open source, and the free software movement.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
@@ -299,7 +309,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Learn AI
-* [aima](http://aima.cs.berkeley.edu/) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+-[aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [grakn.ai](https://grakn.ai) : The Database for AI
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
@@ -359,15 +369,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced c++
 - [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : geeksforgeeks youtube
 - [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) : Hacker earth youtube
-- [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense. 
+- [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
-- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev 
+- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competetive programming
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
 - [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) : Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms. We bring simple to understand Text and Video tutorials at zero cost and cover many subjects including IT, Engineering, MBA, MCA, Management, Various Exams Preparation and Academic subjects. If you are really not extravagant and willing to save your money and time then we recommend you to try our tutorials.experience
-- [Udacity ](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university 
+- [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand software better, including explanations of how software performs some of its most important jobs and tools programmers can use to to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 
@@ -518,6 +528,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+- [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
+- [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 
 
 ## Video Tutorials
@@ -640,35 +652,46 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 
 ## Internships
-
-- [Internshala](https://internshala.com) : You can search internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
-- [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
-- [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern. 
+- [Chegg](http://www.chegg.com) : It is an awesome resource for finding
+	internships, scholarships, tutors, etc.
+- [Internshala](https://internshala.com) : You can search internships here
+	according to your skill sets for your interested location. It also helps you
+	in getting a good PPO offer from the company.
+- [Letsintern](https://www.letsintern.com) : Get a smart and challenging
+	internship for you from the LetsIntern.
+- [PerfectIntern](https://www.perfectintern.com): Get help finding a paid
+	internship, resume prep, interview prep, and more!
 
 ## Jobs
-
-- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
-- [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
-  yourself to a curated list of top companies. Complete privacy and no spacm.
-- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
-- [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply
-  for a job ever again, talk directly to decision makers and hiring managers.
+- [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of
+	the largest job boards, providing job listings, resume posting, and career
+	advice and resources to job seekers.
+- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
+	You can search by company, job title, keyword, employment type, and location.
+- [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
+	Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships
   and jobs.
+- [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get
+	a market salary for your dedication and devotion.
+- [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
+  yourself to a curated list of top companies. Complete privacy and no spam.
+- [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply
+	  for a job ever again, talk directly to decision makers and hiring managers.
+- [The Muse](https://www.themuse.com) : Find everything you need to succeed from
+	dream jobs to career advice. You can do a lot here on The Muse like exploring
+	companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and
+	interesting jobs according to your wish.
+- [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search
+	engine (and mobile app) that takes the hassle out of getting hired and provides
+	you with all the information you need to make a sound career move.
+- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
+  Candidate or Employer. You can get your job easily here.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering and finding new and attractive jobs according to your needs and
   interests.
-- [Indeed](https://www.indeed.com) : Find internation jobs on Indeed and get a market salary for your dedication and devotion.
-- [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you. Search all the open positions on the web. Get your own personalized salary estimate. 
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
-- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
-  Candidate or Employer. You can get your job easily here.
-
-- [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
-- [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
-- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location.
- 
-
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
